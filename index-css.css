@@ -1,0 +1,50 @@
+ 	*{
+ 		margin:0;
+ 		padding:0;
+  	}
+  	body{
+ 		background-color: #80bfff;
+  		font-family: 'Archivo Narrow', sans-serif;
+	  	}
+  	#portfolio-container{
+			  		
+	  	}
+  	#main-portfolio{
+			  		
+	  	}
+  	.nav-link{
+  		color:	#000000;
+  		font-size:30px;
+  	}
+  	#intro-text{
+  		font-size:30px;
+  		padding-left:10px;
+  	}
+  	hr{
+  		border:1px solid #330000;
+  	}
+  	#contact-number{
+  		font-size:20px;
+  		font-weight: bolder;
+  		color:white;
+  	}
+  	#internship-text{
+  		font-size:30px;
+  		font-weight: bolder;
+  		color:white;
+  		float:left;
+  	}
+  	#internship-text-2{
+  		font-size:30px;
+  		font-weight: bolder;
+  		color:white;	
+  		float:right;
+  	}
+  	li{
+  		padding-left:10px;
+  		font-size:30px; 	
+  	}
+  	ul{
+  		padding-left:10px;
+  		margin-left:20px;
+  	}
